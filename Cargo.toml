@@ -1,0 +1,9 @@
+[package]
+name = "cracking-the-coding-interview"
+version = "0.1.0"
+authors = ["Soreine <hello@soreine.dev>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7"
+num = "0.2"
